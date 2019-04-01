@@ -22,8 +22,8 @@ Open index.html
 ![](screenshots/2.png)
 
 ![](screenshots/3.png)
+(carts rotate with CSS animations, as shown in the last cart) 
 
 ![](screenshots/4.png)
-(carts rotate with CSS animations, as shown in the last cart) 
 
 ![](screenshots/5.png)
