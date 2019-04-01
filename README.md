@@ -10,6 +10,7 @@ Install [Node.js](https://nodejs.org/en/)
 In commandline type:
 
 $ npm install npm@latest -g
+
 $ npm install
 
 Open index.html
@@ -23,5 +24,6 @@ Open index.html
 ![](screenshots/3.png)
 
 ![](screenshots/4.png)
+(carts rotate with CSS animations, as shown in the last cart) 
 
 ![](screenshots/5.png)
