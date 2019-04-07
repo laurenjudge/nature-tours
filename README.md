@@ -1,29 +1,8 @@
 # Natures Project
 
 This project uses CSS/Sass animations.
-Created for a fake company that advertises their nature tours.
+Created for a made-up company that advertises their nature tours based off of Jonas Schmedtmann's design.
 
-## Getting Started
+## View Live
 
-Install [Node.js](https://nodejs.org/en/)
-
-In commandline type:
-
-$ npm install npm@latest -g
-
-$ npm install
-
-Open index.html
-
-### Screenshots
-
-![](screenshots/1.png)
-
-![](screenshots/2.png)
-
-![](screenshots/3.png)
-(carts rotate with CSS animations, as shown in the last cart) 
-
-![](screenshots/4.png)
-
-![](screenshots/5.png)
+http://nature-tours.s3-website-ap-southeast-2.amazonaws.com/
