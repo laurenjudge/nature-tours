@@ -1,4 +1,4 @@
-# Natures Project
+# Natours Project
 
 This project uses CSS/Sass animations.
 Created for a made-up company that advertises their nature tours based off of Jonas Schmedtmann's design.
